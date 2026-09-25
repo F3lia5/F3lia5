@@ -1,5 +1,5 @@
 # Hey, I'm Felias 👋
-
+```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠻⣆⠀⠀⠀ ⠀ ⠀⠀⠀ ⠀
 ⠀⠀⡶⢤⡀⠀⠀⠀⢀⡇⡄⠈⢳⡄  ⠀⠀⠀⠀⠀ ⠀
 ⠀⢠⡇⡄⢙⢦⣀⣀⣼⠁⠂⠀⠀⠙⣦⠀⠀⠀⠀⠀ ⠀⠀
@@ -12,7 +12,7 @@
 ⠸⢤⣄⣈⡓⡦⠤⠤⠤⠴⠖⠚⠋⠉⠀⢸⡍ ⠀⠀⠀⠀⠀
 ⠀⠀⠀⠈⠉⠉⠛⠛⠒⢷⠀⠀⠀⠀⠀⠀⢷⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⡃⠀⠀⠀⠀⠀⠘⡃⠀⠀⠀⠀⠀
-
+```
 I'm a Software Engineering student interested in **backend development, AI, algorithms, and Linux**.
 
 Currently learning and building things around:
