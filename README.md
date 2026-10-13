@@ -47,10 +47,14 @@ My daily environment is built around:
 
 ```text
 Arch Linux
-└── Hyprland
+└── Hyprland (Lua)
     ├── Kitty
     ├── zsh
-    └── NeoVim
+    ├── VSCode
+    ├── Obsidian
+    ├── MPD + ncmpcpp
+    ├── fastfetch
+    └── cava-bg
 ```
 
 I enjoy building my desktop environment from scratch and keeping things simple, fast, and keyboard-driven.
